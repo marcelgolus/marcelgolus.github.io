@@ -7,12 +7,11 @@ version: 2
 
 # Personal info
 name: Marcel Golus
-title: Senior DevSecOps engineer
+title: Senior DevSecOps Engineer
 email: marcel.golus@icloud.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: +48 530 391 000
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -41,6 +40,12 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
+  AWS Certified Security Specialty, SysOps Administrator and Certified Cloud Practitioner. I am an Engineer with more than 8 years of experience in DevOps and Security areas. I have experience of work with finance and insurance-related projects. The main experience is related to AWS based projects (e.g., configuration of AWS Config, AWS Security HUB, preparation of notifications related to GuardDuty etc.).
+  I also have experience in python (e.g., lambda@edge functions for doing redirections on CloudFront) and bash scripting.
+  In the scope of recent tasks, I developed from scratch secure network AWS architecture.
+  Have experience with resolving different security incidents in scope of L1/L2 support.
+  I am a dynamic, technical-oriented person specialized in AWS cloud, software, networks, troubleshooting, and administration. I have developed a mature and responsible approach to any task that I undertake. I am also able to learn new technologies very quickly. I am particularly interested in platforms based on GNU/Linux, AWS cloud/hybrid solutions, automation, networking, and IT Security.
+
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
