@@ -79,14 +79,18 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Webellian (work for Allianz Global Assistance)
+        sub_title: DevOps Lead
+        caption: Date Range (eg. November 01.2019 - 12.2021)
+        link: https://webellian.com
         quote: >
-          Short description of the company (optional)
+          Small company 
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Leading the team which realized project for on-premise eCommerce platform migration to AWS Cloud with lift and shift approach. 
+          Building secure, scalable and high availability cloud environments in Infrastructure-as-Code model through Terraform.
+          Automating processes for building environment in Amazon Web Services:
+          Creating, modifying and using exists Terraform modules for building infrastructure.
+          Creating deployment pipelines for building and configuring services on AWS through Gitlab, Terraform, Ansible, Packer.
   - title: Education
     layout: list
     content:
