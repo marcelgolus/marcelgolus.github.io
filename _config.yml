@@ -100,7 +100,12 @@ content:
         # quote: >
         #   Small company 
         description: | # this will include new lines to allow paragraphs
-          Handling security related topics in order to pass annual PCI DSS certification for eCommerce insurance platform (over 30 countries, up to 20 mln pricing quotation per day, full PCI-DSS compliance)
+          Handling security related topics in order to pass annual PCI DSS certification for eCommerce insurance platform (over 30 countries, up to 20 mln pricing quotation per day, full PCI-DSS compliance). 
+          Hardening of environment in accordance with PCI DSS requirements.
+          Management of vulnerability scans (Qualys) and fixing discovered vulnerabilities.
+          Automation of the processes and tasks (Ansible, bash, git)
+          - Monitoring latest threats and vulnerabilities (OWASP, Saucs)
+          - Log/failure analysis and troubleshooting with Splunk  
           
   - title: Education
     layout: list
@@ -113,6 +118,25 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+
+  - title: Certifications
+    layout: list
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: AWS Cloud
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
