@@ -79,18 +79,29 @@ content:
     layout: list
     content:
       - layout: right
-        title: Webellian (work for Allianz Global Assistance)
+        title: Webellian
         sub_title: DevOps Lead
-        caption: Date Range (eg. November 01.2019 - 12.2021)
+        caption: Date Range 01.2019 - 12.2021
         link: https://webellian.com
-        quote: >
-          Small company 
+        # quote: >
+        #   Small company 
         description: | # this will include new lines to allow paragraphs
           Leading the team which realized project for on-premise eCommerce platform migration to AWS Cloud with lift and shift approach. 
           Building secure, scalable and high availability cloud environments in Infrastructure-as-Code model through Terraform.
           Automating processes for building environment in Amazon Web Services:
-          Creating, modifying and using exists Terraform modules for building infrastructure.
+          Creating, modifying and using Terraform modules for building infrastructure.
           Creating deployment pipelines for building and configuring services on AWS through Gitlab, Terraform, Ansible, Packer.
+          Securing on the build level all AWS resources in order to meet and pass annual PCI DSS certification.
+      - layout: right
+        title: Webellian
+        sub_title: Security Engineer
+        caption: Date Range 01.2017 - 12.2019
+        link: https://webellian.com
+        # quote: >
+        #   Small company 
+        description: | # this will include new lines to allow paragraphs
+          Handling security related topics in order to pass annual PCI DSS certification for eCommerce insurance platform (over 30 countries, up to 20 mln pricing quotation per day, full PCI-DSS compliance)
+          
   - title: Education
     layout: list
     content:
